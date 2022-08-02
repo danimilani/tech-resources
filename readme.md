@@ -14,22 +14,22 @@ Eu criei esta lista com os recursos que eu tenho em Inglês e Português que tê
 
 
 ## Programming Courses [ENG]
-
-[Pluralsight](https://app.pluralsight.com/id)
-[Data Camp](https://www.datacamp.com/)
-[Khan Academy](https://khanacademy.org)
-[Code Academy](https://www.codecademy.com/)
-[Free Code Camp](https://www.freecodecamp.org/)
-
+<br/>
+[Pluralsight](https://app.pluralsight.com/id)<br/>
+[Data Camp](https://www.datacamp.com/)<br/>
+[Khan Academy](https://khanacademy.org)<br/>
+[Code Academy](https://www.codecademy.com/)<br/>
+[Free Code Camp](https://www.freecodecamp.org/)<br/>
+<br/><br/>
 ## Cursos de Programação [PRT]
-
-[Origamid](https://www.origamid.com/)
-[Data Science Academy](https://www.datascienceacademy.com.br/)
-[Alura](https://www.alura.com.br/)
-[Digital Innovation One](https://www.dio.me/en)
-
+<br/>
+[Origamid](https://www.origamid.com/)<br/>
+[Data Science Academy](https://www.datascienceacademy.com.br/)<br/>
+[Alura](https://www.alura.com.br/)<br/>
+[Digital Innovation One](https://www.dio.me/en)<br/>
+<br/><br/>
 ## Podcasts [ENG]
-
+<br/>
 Data Bytes
 Tech for non Techies
 Women at Work
