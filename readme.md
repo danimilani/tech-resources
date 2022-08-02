@@ -89,7 +89,7 @@ Scuba Ponto Dev <br>
 [WoMakersCode](https://linktr.ee/womakerscode) <br>
 <br><br>
 
-## Influencers [ENG] :bulb:
+## Influencers [ENG] :microphone:
 <br>
 [Allie K. Miller](https://linktr.ee/alliekmiller) <br>
 [Kylie Ying](https://www.youtube.com/c/YCubed) <br>
@@ -98,7 +98,7 @@ Scuba Ponto Dev <br>
 [Stephanie Yu](https://linktr.ee/theunicornrecruiter) <br>
 <br><br>
 
-## Influencers [PRT] :bulb:
+## Influencers [PRT] :microphone:
 <br>
 [Akari Ueda](https://linktr.ee/akariueda) <br>
 [Gabs Ferreira](http://gabsferreira.com/) <br>
