@@ -13,7 +13,7 @@ O objetivo desta lista é organizar links úteis relacionados a comunidades, cur
 Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado nos últimos anos e eu espero que esta lista possa ajudar outras pessoas também.
 
 
-## Programming Courses [ENG]
+## Programming Courses [ENG] :computer:
 <br>
 
 [Pluralsight](https://app.pluralsight.com/id) <br>
@@ -24,7 +24,7 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 [Leet Code](https://leetcode.com/) <br>
 <br><br>
 
-## Cursos de Programação [PRT]
+## Cursos de Programação [PRT] :computer:
 <br>
 
 [Origamid](https://www.origamid.com/) <br>
@@ -33,7 +33,7 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 [Digital Innovation One](https://www.dio.me/en) <br>
 <br><br>
 
-## Podcasts [ENG]
+## Podcasts [ENG] :headphones:
 <br>
 
 Data Bytes <br>
@@ -41,7 +41,7 @@ Tech for non Techies <br>
 Women at Work <br>
 <br><br>
 
-## Podcasts [PRT]
+## Podcasts [PRT] :headphones:
 <br>
 
 Mulheres de Produto <br>
@@ -52,7 +52,7 @@ Scuba Ponto Dev <br>
 Hipsters Ponto Tech <br>
 <br><br>
 
-## Women in Tech Communities [ENG]
+## Women in Tech Communities [ENG] :bulb:
 <br>
 
 [STEM Women](https://stemwomenevents.com/events) <br>
@@ -70,7 +70,7 @@ Hipsters Ponto Tech <br>
 [Code First Girls](https://codefirstgirls.com/) <br>
 <br><br>
 
-## Comunidades de Mulheres em Tecnologia [PRT]
+## Comunidades de Mulheres em Tecnologia [PRT] :bulb:
 <br>
 
 [Elas Programam](https://elasprogramam.com.br/#/) <br>
@@ -89,7 +89,7 @@ Hipsters Ponto Tech <br>
 [WoMakersCode](https://linktr.ee/womakerscode) <br>
 <br><br>
 
-## Books | Livros
+## Books | Livros :blue_book:
 <br>
 
 Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
