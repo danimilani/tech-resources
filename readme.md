@@ -21,6 +21,7 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 [Khan Academy](https://khanacademy.org) <br>
 [Code Academy](https://www.codecademy.com/) <br>
 [Free Code Camp](https://www.freecodecamp.org/) <br>
+[Leet Code](https://leetcode.com/) <br>
 <br><br>
 
 ## Cursos de Programação [PRT]
