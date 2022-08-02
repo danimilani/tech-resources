@@ -10,7 +10,7 @@ I have created this list gathering the resources in both English and Portuguese 
 
 O objetivo desta lista é organizar links úteis relacionados a comunidades, cursos, podcasts, livros, influencers e outros recursos que possam auxiliar no seu caminho para aprender mais sobre Tecnologia.
 
-Eu criei esta lista com os recursos que eu tenho em Inglês e Português que têm me ajudado nos últimos anos e eu espero que possa ajudar outras pessoas também.
+Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado nos últimos anos e eu espero que esta lista possa ajudar outras pessoas também.
 
 
 ## Programming Courses [ENG]
