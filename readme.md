@@ -89,6 +89,26 @@ Scuba Ponto Dev <br>
 [WoMakersCode](https://linktr.ee/womakerscode) <br>
 <br><br>
 
+## Influencers [ENG] :bulb:
+<br>
+[Allie K. Miller](https://linktr.ee/alliekmiller) <br>
+[Kylie Ying](https://www.youtube.com/c/YCubed) <br>
+[Tiff In Tech](https://www.youtube.com/c/TiffInTech) <br>
+[Tina Huang](https://www.youtube.com/c/TinaHuang1) <br>
+[Stephanie Yu](https://linktr.ee/theunicornrecruiter) <br>
+<br><br>
+
+## Influencers [PRT] :bulb:
+<br>
+[Akari Ueda](https://linktr.ee/akariueda) <br>
+[Gabs Ferreira](http://gabsferreira.com/) <br>
+[Karol Attekita](https://www.attekita.com/) <br>
+[Leticia Coelho](https://linktr.ee/engenheira.coelho) <br>
+[Nina Talks](https://linktr.ee/nina_talks) <br>
+[Rafaela Ballerini](https://beacons.ai/rafaballerini) <br>
+[Silvia Coelho](https://linktr.ee/silvia.coelho) <br>
+<br><br>
+
 ## Books | Livros :blue_book:
 <br>
 
