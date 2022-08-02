@@ -93,16 +93,19 @@ Scuba Ponto Dev <br>
 <br>
 
 [Allie K. Miller](https://linktr.ee/alliekmiller) <br>
+[Daliana Liu](https://dalianaliu.com/) <br>
 [Kylie Ying](https://www.youtube.com/c/YCubed) <br>
 [Tiff In Tech](https://www.youtube.com/c/TiffInTech) <br>
 [Tina Huang](https://www.youtube.com/c/TinaHuang1) <br>
 [Stephanie Yu](https://linktr.ee/theunicornrecruiter) <br>
+[Zach Wilson](https://www.youtube.com/c/DatawithZach) <br>
 <br><br>
 
 ## Influencers [PRT] :microphone:
 <br>
 
 [Akari Ueda](https://linktr.ee/akariueda) <br>
+[Erick Wendel](https://erickwendel.com/) <br>
 [Gabs Ferreira](http://gabsferreira.com/) <br>
 [Karol Attekita](https://www.attekita.com/) <br>
 [Leticia Coelho](https://linktr.ee/engenheira.coelho) <br>
