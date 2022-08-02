@@ -15,11 +15,11 @@ Eu criei esta lista com os recursos que eu tenho em Inglês e Português que tê
 
 ## Programming Courses [ENG]
 <br/>
-[Pluralsight](https://app.pluralsight.com/id)<br>
-[Data Camp](https://www.datacamp.com/)<br>
-[Khan Academy](https://khanacademy.org)<br>
-[Code Academy](https://www.codecademy.com/)<br>
-[Free Code Camp](https://www.freecodecamp.org/)<br>
+[Pluralsight](https://app.pluralsight.com/id) <br>
+[Data Camp](https://www.datacamp.com/) <br>
+[Khan Academy](https://khanacademy.org) <br>
+[Code Academy](https://www.codecademy.com/) <br>
+[Free Code Camp](https://www.freecodecamp.org/) <br>
 <br><br>
 ## Cursos de Programação [PRT]
 <br>
