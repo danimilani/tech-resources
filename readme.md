@@ -1,4 +1,4 @@
-# Useful Tech Resources | Recursos Úteis sobre Tecnologia
+# Useful Tech Resources | Links Úteis sobre Tecnologia
 
 [ENG]
 
