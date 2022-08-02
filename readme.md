@@ -91,6 +91,7 @@ Scuba Ponto Dev <br>
 
 ## Influencers [ENG] :microphone:
 <br>
+
 [Allie K. Miller](https://linktr.ee/alliekmiller) <br>
 [Kylie Ying](https://www.youtube.com/c/YCubed) <br>
 [Tiff In Tech](https://www.youtube.com/c/TiffInTech) <br>
@@ -100,6 +101,7 @@ Scuba Ponto Dev <br>
 
 ## Influencers [PRT] :microphone:
 <br>
+
 [Akari Ueda](https://linktr.ee/akariueda) <br>
 [Gabs Ferreira](http://gabsferreira.com/) <br>
 [Karol Attekita](https://www.attekita.com/) <br>
