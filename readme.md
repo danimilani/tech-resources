@@ -33,12 +33,15 @@ Eu criei esta lista com os recursos que eu tenho em Inglês e Português que tê
 <br><br>
 
 ## Podcasts [ENG]
-<br/>
+<br>
+
 Data Bytes
 Tech for non Techies
 Women at Work
+<br><br>
 
 ## Podcasts [PRT]
+<br>
 
 Mulheres de Produto
 Podcast Agile Girls
@@ -46,42 +49,48 @@ Elas Programam
 Start Coding
 Scuba Ponto Dev
 Hipsters Ponto Tech
+<br><br>
 
 ## Women in Tech Communities [ENG]
+<br>
 
-[STEM Women](https://stemwomenevents.com/events)
-[Women in Technology (WIT)](http://www.mywit.org/)
-[Women in Tech Forum](http://www.womenintechforum.com/)
-[Women in Analytics](https://www.womeninanalytics.com/)
-[Tech Ladies](http://www.hiretechladies.com/)
-[TechGirls](https://www.wearetechgirls.com/)
-[Data Girls Neuron](https://linktr.ee/DataGirls)
-[Cloud Girls](http://www.cloudgirls.org/)
-[Coding Girls](http://www.coding-girls.com/)
-[Women in Data Science Worldwide](https://www.widsconference.org/)
-[Stemettes](http://stemettes.org/)
-[She Codes](https://www.shecodes.io/)
-[Code First Girls](https://codefirstgirls.com/)
+[STEM Women](https://stemwomenevents.com/events) <br>
+[Women in Technology (WIT)](http://www.mywit.org/) <br>
+[Women in Tech Forum](http://www.womenintechforum.com/) <br>
+[Women in Analytics](https://www.womeninanalytics.com/) <br>
+[Tech Ladies](http://www.hiretechladies.com/) <br>
+[TechGirls](https://www.wearetechgirls.com/) <br>
+[Data Girls Neuron](https://linktr.ee/DataGirls) <br>
+[Cloud Girls](http://www.cloudgirls.org/) <br>
+[Coding Girls](http://www.coding-girls.com/) <br>
+[Women in Data Science Worldwide](https://www.widsconference.org/) <br>
+[Stemettes](http://stemettes.org/) <br>
+[She Codes](https://www.shecodes.io/) <br>
+[Code First Girls](https://codefirstgirls.com/) <br>
+<br><br>
 
 ## Comunidades de Mulheres em Tecnologia [PRT]
+<br>
 
-[Elas Programam](https://elasprogramam.com.br/#/)
-[{reprograma}](http://www.reprograma.com.br/estacao-hack/)
-[Comunidade Cafeina](http://compiladoras.com.br/)
-[Brazilians in Tech](http://braziliansintech.com/)
-[Programaria](http://www.programaria.org/)
-[Ser mulher em Tech](https://sermulheremtech.com.br/)
-[DiversiData](https://linktr.ee/diversidata)
-[AI Girls](https://www.linkedin.com/company/ai-girls/)
-[Mulheres em IA - Brasil](https://mulheres-em-ia.github.io/)
-[Mulheres em Dados](https://lnkd.in/dUEymWsU)
-[STEM para as Minas](https://campsite.bio/stemparaminas)
-[Cloud Girls](http://www.cloudgirls.com.br/)
-[Girls Support Girls](https://gsgcommunity.github.io/)
-[WoMakersCode](https://linktr.ee/womakerscode)
+[Elas Programam](https://elasprogramam.com.br/#/) <br>
+[{reprograma}](http://www.reprograma.com.br/estacao-hack/) <br>
+[Comunidade Cafeina](http://compiladoras.com.br/) <br>
+[Brazilians in Tech](http://braziliansintech.com/) <br>
+[Programaria](http://www.programaria.org/) <br>
+[Ser mulher em Tech](https://sermulheremtech.com.br/) <br>
+[DiversiData](https://linktr.ee/diversidata) <br>
+[AI Girls](https://www.linkedin.com/company/ai-girls/) <br>
+[Mulheres em IA - Brasil](https://mulheres-em-ia.github.io/) <br>
+[Mulheres em Dados](https://lnkd.in/dUEymWsU) <br>
+[STEM para as Minas](https://campsite.bio/stemparaminas) <br>
+[Cloud Girls](http://www.cloudgirls.com.br/) <br>
+[Girls Support Girls](https://gsgcommunity.github.io/) <br>
+[WoMakersCode](https://linktr.ee/womakerscode) <br>
+<br><br>
 
 ## Books | Livros
+<br>
 
-Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava
-algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian
-
+Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
+Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian <br>
+<br><br>
