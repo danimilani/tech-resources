@@ -35,20 +35,20 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 ## Podcasts [ENG]
 <br>
 
-Data Bytes
-Tech for non Techies
-Women at Work
+Data Bytes <br>
+Tech for non Techies <br>
+Women at Work <br>
 <br><br>
 
 ## Podcasts [PRT]
 <br>
 
-Mulheres de Produto
-Podcast Agile Girls
-Elas Programam
-Start Coding
-Scuba Ponto Dev
-Hipsters Ponto Tech
+Mulheres de Produto <br>
+Podcast Agile Girls <br>
+Elas Programam <br>
+Start Coding <br>
+Scuba Ponto Dev <br>
+Hipsters Ponto Tech <br>
 <br><br>
 
 ## Women in Tech Communities [ENG]
