@@ -118,5 +118,6 @@ Scuba Ponto Dev <br>
 <br>
 
 Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
+<br>
 Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian <br>
 <br><br>
