@@ -18,7 +18,9 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 
 [Code Academy](https://www.codecademy.com/) <br>
 [Data Camp](https://www.datacamp.com/) <br>
+[Exercism](https://exercism.org/) <br>
 [Free Code Camp](https://www.freecodecamp.org/) <br>
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths) <br>
 [Khan Academy](https://khanacademy.org) <br>
 [Leet Code](https://leetcode.com/) <br>
 [Pluralsight](https://app.pluralsight.com/id) <br>
