@@ -133,7 +133,7 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Coolors](https://coolors.co/) - Color palette generator <br>
 [Emoji Codes](https://gist.github.com/rxaviers/7360908) - Emoji Codes for MD Files <br>
 [Font Awesome](https://fontawesome.com/) - Icon library <br>
-[GIT - Simple Guide](http://rogerdudler.github.io/git-guide/) <br>
+[GIT](http://rogerdudler.github.io/git-guide/) - Simple Guide to GIT <br>
 [Github Repos](https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81) - Valuable Github Repos <br>
 [Notion](https://www.notion.so/) - Workspace tool <br>
 [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public API list <br>
