@@ -117,16 +117,6 @@ Scuba Ponto Dev <br>
 [Silvia Coelho](https://linktr.ee/silvia.coelho) <br>
 <br><br>
 
-## Books | Livros :blue_book:
-<br>
-
-Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
-<br>
-Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian <br>
-<br>
-[Deep Learning Book - Data Science Academy](https://www.deeplearningbook.com.br/)
-<br><br>
-
 ## Other Resources and Tools [ENG] :thought_balloon:
 <br>
 
@@ -144,4 +134,14 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Untools](https://untools.co/) - Tools for better thinking <br>
 [Word2MD](https://word2md.com/) - Word to Markdown Converter <br>
 [W3 Schools](https://www.w3schools.com/) - Online Web Tutorials <br>
+<br><br>
+
+## Books | Livros :blue_book:
+<br>
+
+Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
+<br>
+Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian <br>
+<br>
+[Deep Learning Book - Data Science Academy](https://www.deeplearningbook.com.br/)
 <br><br>
