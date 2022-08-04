@@ -141,6 +141,7 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Trello](https://trello.com/) - Project management tool <br>
 [Unsplash](https://unsplash.com/) - Free images and pictures <br>
 [Untools](https://untools.co/) - Tools for better thinking <br>
+[Valuable Github Repos](https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81) <br>
 [Word2MD](https://word2md.com/) - Word to Markdown Converter <br>
 [W3 Schools](https://www.w3schools.com/) - Online Web Tutorials <br>
 <br><br>
