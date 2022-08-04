@@ -134,6 +134,7 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Emoji Codes](https://gist.github.com/rxaviers/7360908) - Emoji Codes for MD Files <br>
 [Font Awesome](https://fontawesome.com/) - Icon library <br>
 [GIT - Simple Guide](http://rogerdudler.github.io/git-guide/) <br>
+[Github Repos](https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81) - Valuable Github Repos <br>
 [Notion](https://www.notion.so/) - Workspace tool <br>
 [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public API list <br>
 [Refactoring Guru](https://refactoring.guru/) - Refactoring and design patterns <br>
@@ -141,7 +142,6 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Trello](https://trello.com/) - Project management tool <br>
 [Unsplash](https://unsplash.com/) - Free images and pictures <br>
 [Untools](https://untools.co/) - Tools for better thinking <br>
-[Valuable Github Repos](https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81) <br>
 [Word2MD](https://word2md.com/) - Word to Markdown Converter <br>
 [W3 Schools](https://www.w3schools.com/) - Online Web Tutorials <br>
 <br><br>
