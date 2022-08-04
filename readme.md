@@ -17,6 +17,7 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 <br>
 
 [Code Academy](https://www.codecademy.com/) <br>
+[CS50's Introduction to Programming](https://cs50.harvard.edu/python/2022/) <br>
 [Data Camp](https://www.datacamp.com/) <br>
 [Exercism](https://exercism.org/) <br>
 [Free Code Camp](https://www.freecodecamp.org/) <br>
@@ -132,7 +133,9 @@ Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões H
 [Coolors](https://coolors.co/) - Color palette generator <br>
 [Emoji Codes](https://gist.github.com/rxaviers/7360908) - Emoji Codes for MD Files <br>
 [Font Awesome](https://fontawesome.com/) - Icon library <br>
+[GIT - Simple Guide](http://rogerdudler.github.io/git-guide/) <br>
 [Notion](https://www.notion.so/) - Workspace tool <br>
+[RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public API list <br>
 [Refactoring Guru](https://refactoring.guru/) - Refactoring and design patterns <br>
 [Replit](https://replit.com/) - Tool to code online <br>
 [Trello](https://trello.com/) - Project management tool <br>
