@@ -122,4 +122,22 @@ Scuba Ponto Dev <br>
 Grokking Algorithms | Entendendo Algoritmos - Aditya Bhargava <br>
 <br>
 Algorithms to live by | Algoritmos Para Viver - A Ciência Exata Das Decisões Humanas - Brian Christian <br>
+<br>
+[Deep Learning Book - Data Science Academy](https://www.deeplearningbook.com.br/)
+<br><br>
+
+## Other Resources and Tools [ENG] :thought_balloon:
+<br>
+
+[Coolors](https://coolors.co/) - Color palette generator <br>
+[Emoji Codes](https://gist.github.com/rxaviers/7360908) - Emoji Codes for MD Files <br>
+[Font Awesome](https://fontawesome.com/) - Icon library <br>
+[Notion](https://www.notion.so/) - Workspace tool <br>
+[Refactoring Guru](https://refactoring.guru/) - Refactoring and design patterns <br>
+[Replit](https://replit.com/) - Tool to code online <br>
+[Trello](https://trello.com/) - Project management tool <br>
+[Unsplash](https://unsplash.com/) - Free images and pictures <br>
+[Untools](https://untools.co/) - Tools for better thinking <br>
+[Word2MD](https://word2md.com/) - Word to Markdown Converter <br>
+[W3 Schools](https://www.w3schools.com/) - Online Web Tutorials <br>
 <br><br>
