@@ -120,6 +120,7 @@ Scuba Ponto Dev <br>
 ## Other Resources and Tools [ENG] :thought_balloon:
 <br>
 
+[Canva](https://www.canva.com/en_gb/) - Canva Design Tool <br>
 [Coolors](https://coolors.co/) - Color palette generator <br>
 [Emoji Codes](https://gist.github.com/rxaviers/7360908) - Emoji Codes for MD Files <br>
 [Font Awesome](https://fontawesome.com/) - Icon library <br>
