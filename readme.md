@@ -31,6 +31,7 @@ Eu criei esta lista com os recursos em Inglês e Português que têm me ajudado 
 <br>
 
 [Alura](https://www.alura.com.br/) <br>
+[Curso em Vídeo](https://www.cursoemvideo.com/) <br>
 [Data Science Academy](https://www.datascienceacademy.com.br/) <br>
 [Digital Innovation One](https://www.dio.me/en) <br>
 [Origamid](https://www.origamid.com/) <br>
